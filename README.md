@@ -1,2 +1,2 @@
 # embedded-devops-site
-Landing page for DevOps for Embedded Systems book
+Landing page for DevOps for Embedded Systems book.
